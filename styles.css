@@ -1,9 +1,6 @@
 /*  your css code here. If applicable */
-html{
-	background-color: 'rgb(135, 206, 235);
-}
 body{
-	background-color: lightblue;
+	background-color: rgb(135, 206, 235);
 }
 
 .para p:first-child{
