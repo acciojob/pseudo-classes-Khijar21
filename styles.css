@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+body{
+	background-color: lightblue;
+}
+
+.para p:first-child{
+	background-color: black;
+	color: white;
+}
+
+.para p:last-child{
+	color: red;
+}
+
+
+.list li:first-child{
+	background-color: white;
+	font-size: 20px;
+}
+.list li:last-child{
+	background-color: white;
+	font-size: 20px;
+}
+
+
+.list li:nth-child(2n){
+	background-color: #708090;
+}
+
+.list li:nth-child(3){
+	background-color: pink;
+}
